@@ -161,11 +161,11 @@ h6 {
 button {
   background-color: rgba(0,0,0,0);
   border: none;
+  padding: 0px 170px;
   color: rgba(0,0,0,0);
   font-weight: bold;
-  padding: 0px 170px;
+  font-size: 30px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  font-size: 30px;
+  text-align: center;
 }
