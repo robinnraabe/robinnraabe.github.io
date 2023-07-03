@@ -1,3 +1,3 @@
 function secret_button(url){
-         window.open(url).focus();
+         window.open(url);
 }
