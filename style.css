@@ -97,7 +97,7 @@ a, u {
   text-decoration: none; 
 }
 
-a {
+a, a:visited {
   line-height: 16px;
   color: #ffa500;
   background: 
