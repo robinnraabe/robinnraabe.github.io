@@ -28,7 +28,7 @@
 }
 
 .education {
-  grid-row: 2 / 3;
+  grid-row: 2 / span 1;
   grid-column: 1 / 2;
   background-color: #f3f3f3;
   padding-top: 20px;
