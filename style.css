@@ -26,7 +26,7 @@
 }
 
 .education {
-  grid-row: 2 / span 1;
+  grid-row: 2 / 3;
   grid-column: 1 / 2;
   background-color: #f3f3f3;
   padding: 20px 0x 0x 30x;
@@ -40,7 +40,7 @@
 }
 
 .empty-row {
-  grid-row: 3 / span 1;
+  grid-row: 3 / 4;
   grid-column: 1 / 2;
   background-color: white;
 }
