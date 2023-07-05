@@ -44,7 +44,7 @@
 }
 
 .empty-row {
-  grid-row: 3 / 4;
+  grid-row: 3 / span 1;
   grid-column: 1 / 2;
   background-color: white;
 }
