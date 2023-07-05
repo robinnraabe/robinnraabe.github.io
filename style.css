@@ -30,7 +30,7 @@
   grid-column: 1 / 2;
   background-color: #f3f3f3;
   padding: 20px 0px 0px 30px;
-  border-bottom-left-radius: 0px 0px 15px 15px;
+  border-radius: 0px 0px 15px 15px;
 }
 
 .footer {
