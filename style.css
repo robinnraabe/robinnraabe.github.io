@@ -43,6 +43,12 @@
   padding: 5px;
 }
 
+.empty-row {
+  grid-row: 3 / 4;
+  grid-column: 1 / 2;
+  background-color: white;
+}
+
 .experience {
   grid-column: 2 / 3;
   grid-row: 1 / span 2;
